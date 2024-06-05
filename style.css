@@ -12,10 +12,6 @@ body {
   text-size-adjust: 100%;
 }
 
-* {
-  line-height: 25px;
-}
-
 strong .toa {
   white-space: nowrap;
 }
