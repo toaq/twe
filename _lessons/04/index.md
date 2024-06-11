@@ -14,9 +14,9 @@ delta: true
 | **Kaqgaı kúeqtua jí da.**                                     | The collectors see me.          |
 | **Kuq sá shı mó « Paqtao súq ba! » teo da.** [⑥](#fn-6)[⑦](#fn-7) | Someone says: "Take part!"      |
 | **Tıu soa jí hó da.**                    [⑧](#fn-8)           | So I help them.                 |
-| **Kueqtua jí da ru kueqtua jí da.**                           | I collect and I collect.        |
+| **Kueqtua jí da rú kueqtua jí da.**                           | I collect and I collect.        |
 | **Je nuaq da.**                          [⑨](#fn-9)           | It is night-time.               |
-| **Ru seakuaı tú poq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
+| **Rú seakuaı tú poq da.**                [⑩](#fn-10)          | And everyone is exhausted.      |
 
 ## Notes
 

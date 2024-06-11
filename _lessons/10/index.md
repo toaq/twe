@@ -17,7 +17,7 @@ delta: true
 | **Bu cho jí ní, hóı ába. [④](#fn-4) Bu de ní da. Hıa báq habı móq?** [⑤](#fn-5) | I don't like those, father. They are not beautiful. How about birds? |
 | **Em, bu moaq jí, mä nıtı sá habı da...** [⑥](#fn-6) | Um, I don't remember whether there are birds... |
 | **Tıu tua súq, ꝡä kaqgaı íme káto ba.** [⑦](#fn-7) | Then show us the cats. |
-| **Kaqgaı súq ní doa. Tı sá kuo ru sá bao ru sá naraq da. Mıu súq hí raı móq?** | See here. There are black ones, white ones and orange ones. What do you think? |
+| **Kaqgaı súq ní doa. Tı sá kuo rú sá bao rú sá naraq da. Mıu súq hí raı móq?** | See here. There are black ones, white ones and orange ones. What do you think? |
 | **Loı jí báq kato da.**  | I hate cats. |
 | **Kushe. Joaı jí báq habı ba.** | I am sorry. Let me look for birds. |
 | **Kıjı. Aojaı jí, ꝡä jai líqfu da.**  | Thank you. I want (my) daughter to be happy. |
