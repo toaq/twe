@@ -50,7 +50,7 @@ delta: true
   <span class="spoiler" tabindex=0>"Is the sofa small?"</span>
 
 - <audio controls src="ex3.mp3"></audio>
-  **Sá kune bï nıe hó núokua da.**
+  **Sá kune nä nıe hó núokua da.**
   <span class="spoiler" tabindex=0>"Some dogs, they are in the bedroom."</span>
 
 - <audio controls src="ex4.mp3"></audio>
