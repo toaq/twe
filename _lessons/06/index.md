@@ -58,7 +58,7 @@ delta: true
   <span class="spoiler" tabindex=0>"What is the dog looking for?"</span>
 
 - <audio controls src="ex5.mp3"></audio>
-  **Kuq déo mó « Sá poq nä joaı hó súq, hu máma » teo da.**
+  **Kuq déo mó « Sá poq nä joaı hó súq, hóı máma » teo da.**
   <span class="spoiler" tabindex=0>"The child says 'Some person, they are looking for you, Mother'."</span>
 
 ### Fill in the blanks:
