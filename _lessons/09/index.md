@@ -9,7 +9,7 @@ delta: true
 {: .sentences}
 | **Kaqgaı súq ba. Hıa ní móq?** [①](#fn-1)     | Look! What is that? |
 | **Kaqjua ní da. [②](#fn-2)** | That is strange-looking. |
-| **Chı jí, ꝡä poq ní da. Kúo bu dua jí, ꝡä tao ní hí raı da.** [③](#fn-3) | I believe that is a person. But I don't know what they are doing. |
+| **Chı jí, ꝡä poq ní da. Kéo bu dua jí, ꝡä tao ní hí raı da.** [③](#fn-3) | I believe that is a person. But I don't know what they are doing. |
 | **Keoı úmo ní ba.**  | Let us talk to it. |
 | **Hıo ka.** [④](#fn-4) | Hello. |
 | **Jadı.** | Hi. |
