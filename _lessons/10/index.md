@@ -2,7 +2,7 @@
 title: 'Chíetoaı heıko'
 delta: true
 ---
-# **Chíetoaı heıko** -- Lesson 10
+# **Chíetoaı kọheı** -- Lesson 10
 
 <audio id="mainaudio" controls src="lesson.mp3"></audio>
 
