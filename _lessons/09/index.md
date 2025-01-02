@@ -17,20 +17,20 @@ delta: true
 | **Nho!** [⑤](#fn-5) | Yes! |
 | **Obe! Chua hí raı súq móq?**  | Oh! What is your name? |
 | **Mı Boko jí da!** [⑥](#fn-6) | I am Boko! |
-| **Ma bu gıam súq moq?** | Do you not move? |
+| **Ma bu gıam súq móq?** | Do you not move? |
 | **Guosıa, ꝡä gıam mí Boko da!** [⑦](#fn-7) | Boko never moves! |
 | **Luaı súq da.** | You are funny. |
 | **Kıjı!** [⑧](#fn-8) | Thank you! |
 
 ## Notes
 
-1. <a name="fn-1" /> **Hıa** is a *question verb*, and can be translated with "is what?". **Hıa ní moq?** "What is this?", "What is that?".
+1. <a name="fn-1" /> **Hıa** is a *question verb*, and can be translated with "is what?". **Hıa ní móq?** "What is this?", "What is that?".
 
 2. <a name="fn-2" /> The compound **kaqjua** "to be strange-looking" contains a familiar component, **kaq**, which means "visual", "pertaining to vision". You met this as part of **kaqgaı** "to see". **jua** means "strange", so **kaqjua** is something that looks strange.
 
 3. <a name="fn-3" /> Here we meet another example of **ꝡä**. The phrase **poq ní** means "this is a person", so **ꝡä poq ní** means "that this is a person". **Chı jí, ꝡä poq ní** means "I think that this is a person". In the second sentence, we see the content clause **ꝡä tao ní hí raı**, which contains a question word. Such content clauses are called indirect questions, because they are used to talk *about* questions rather than directly asking them oneself. **ꝡä tao ní hí raı** translates to the indirect question "what this is doing", so the full sentence **Bu dua jí, ꝡä tao ní hí raı da** means "I don't know what this is doing".
 
-4. <a name="fn-4" /> The word **ka** is a family member of **da**, **moq** and **ba**. Its appearance at the end of a sentence indicates that the sentence is true by virtue of being uttered. A common example of such a sentence in English would be "I now pronounce you husband and wife". A good general translation of **ka** into English would be "hereby". **hıo** means "to greet (someone)", thus **Hıo ka** has the literal meaning "Hereby, there is greeting", which is a common way to say "hello" in Toaq. A slightly longer version is **Hıo jí ka** "Hereby, I greet", or **Hıo jí súq ka** "Hereby, I greet you". You can also say **jadı**, which is an interjection meaning "hello" or "hi".
+4. <a name="fn-4" /> The word **ka** is a family member of **da**, **móq** and **ba**. Its appearance at the end of a sentence indicates that the sentence is true by virtue of being uttered. A common example of such a sentence in English would be "I now pronounce you husband and wife". A good general translation of **ka** into English would be "hereby". **hıo** means "to greet (someone)", thus **Hıo ka** has the literal meaning "Hereby, there is greeting", which is a common way to say "hello" in Toaq. A slightly longer version is **Hıo jí ka** "Hereby, I greet", or **Hıo jí súq ka** "Hereby, I greet you". You can also say **jadı**, which is an interjection meaning "hello" or "hi".
 
 5. <a name="fn-5" /> **Nho** is an affirmative interjection, which can be translated as "yes".
 
