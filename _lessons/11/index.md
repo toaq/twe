@@ -10,7 +10,7 @@ delta: true
 | **Koa da.** | It's cold. |
 | **Du, ꝡä bıa súq da. Tıshue súq núofua ba.** [①](#fn-1) **Jıa bai jí báq chaı nha.** [②](#fn-2) | It seems like you are sick. You should stay in bed. I will make tea.  |
 | **Kıjı.** | Thank you. |
-| **Enı. Loq cháı ꝡo. Pıe súq máq ba.** | Here. The tea is hot. Drink it. |
+| **Enı. Loq cháı da. Pıe súq máq ba.** | Here. The tea is hot. Drink it. |
 | **Jaq loq máq da.** [③](#fn-3) | It is very hot. |
 | **Ma noqgı máq móq? Pu tua jí, ꝡä nıe báq matu chái da.** [④](#fn-4) | Is it delicious? I put honey in the tea. |
 | **Gı máq da.** | It's good. |
