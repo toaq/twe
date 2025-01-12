@@ -10,7 +10,7 @@ delta: true
 | **Hóı páı** | (Dear) friend |
 | **Je chum tuı jí ánıneaq da.** [①](#fn-1) **Kaqsı jí, ꝡä hoeshıao da. Huosı jí súeq da.** [②](#fn-2) | I am sitting on the beach. I am watching the sunset. I am listening to the waves. |
 | **Gı tú raı da. Ca hóq, ꝡä jaı jí da.** | Everything is good. That make me happy. |
-| **Kéo bu nıtı súq da. Ca hóq, ꝡa meo jí da.** | But you are not here. That makes me sad. |
+| **Kéo bu nıtı súq da. Ca hóq, ꝡä meo jí da.** | But you are not here. That makes me sad. |
 | **Bu dua súq, tïo de ríaq da.** [③](#fn-3) | You don't know how beautiful this place is. |
 | **Zaı jí, ꝡä jıa fa súq ní da. Zoaıcıa jí, ꝡä ao cho súq ríaq da.** | I hope that you will come here in the future. I am certain that you would like the place. |
 | **Púchaq bï pu fa jí méı rú múaome da.** [④](#fn-4) | Yesterday, I went to the mountains and the woods. |
