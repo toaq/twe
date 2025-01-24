@@ -75,6 +75,3 @@ delta: true
 
 - "The food is that there."
   **<span class="spoiler" tabindex=0>Nıjao</span> háq da.**
-
-- "You are me."
-  **<span class="spoiler" tabindex=0>Jı</span> <span class="spoiler" tabindex=0>súq</span> da.**
