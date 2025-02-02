@@ -73,5 +73,5 @@ delta: true
 - "This here and that there is beautiful."
   **De <span class="spoiler" tabindex=0>níjuı</span> rú <span class="spoiler" tabindex=0>níjao</span> da.**
 
-- "The food is that there."
-  **<span class="spoiler" tabindex=0>Nıjao</span> háq da.**
+- "That there is food."
+  **<span class="spoiler" tabindex=0>Haq</span> níjao da.**
